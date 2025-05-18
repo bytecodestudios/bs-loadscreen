@@ -2,7 +2,8 @@ Loading screen with has logo, progressbar, image slideshow, music player
 
 # Preview
 
-![image](https://github.com/user-attachments/assets/ce897cca-b75c-4b4a-b114-fa65efa7f8f8)
+![{F70CD124-EC93-4E32-B57B-C777C560C9FD}](https://github.com/user-attachments/assets/15e42a58-a8c0-4be7-bd47-5f62876d385f)
+
 
 # Installation
 
